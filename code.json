@@ -75,7 +75,7 @@
         "status": 0,
         "updateMsg": "2022.06.06 12:00 更新\n",
         "version": 1.02,
-        "latestVersion": 1.05,
+        "latestVersion": 1.06,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
             "运行正常\n",
@@ -88,7 +88,7 @@
         "version": 1.00,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
-            "最好别用脚本默认时间，避免太多人一起签到做任务\n定时每天一次到两次就行了，时间随意，建议只换2块E卡就好，话费从来没有抢到过\n",
+            "最好别用脚本默认时间，避免太多人一起签到做任务\n定时每天一次到两次就行了，时间随意，建议只换2块E卡就好，话费从来没有抢到过",
             "此脚本无法运行，请马上删除\n"
         ]
     },
@@ -106,7 +106,7 @@
         "status": 0,
         "updateMsg": "2022.06.14 15:00 修复签到和吹牛，增加推送开关\n不懂设置变量的请打开脚本文件看开头的说明\n",
         "version": 1.01,
-        "latestVersion": 1.03,
+        "latestVersion": 1.04,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
             "运行正常\n",
@@ -117,7 +117,7 @@
         "status": 0,
         "updateMsg": "2022.06.13 22:45 更新社群外卖券，团团神券，抽月符\n",
         "version": 1.00,
-        "latestVersion": 1.08,
+        "latestVersion": 1.09,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
             "运行正常\n",
@@ -128,10 +128,10 @@
         "status": 0,
         "updateMsg": "2022.05.03 23:00 完成脚本\n",
         "version": 1.00,
-        "latestVersion": 1.00,
+        "latestVersion": 1.01,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
-            "运行正常",
+            "运行正常\n",
             "此脚本无法运行，请马上删除\n"
         ]
     },
@@ -139,18 +139,18 @@
         "status": 0,
         "updateMsg": "2022.05.06 12:00 完成脚本\n",
         "version": 1.00,
-        "latestVersion": 1.00,
+        "latestVersion": 1.01,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
-            "运行正常",
+            "运行正常\n",
             "此脚本无法运行，请马上删除\n"
         ]
     },
     "elm": {
         "status": 0,
-        "updateMsg": "2022.06.16 08:00 增加扫描任务开关，更新默认抢券时间为9点59分59秒850毫秒\n",
+        "updateMsg": "2022.06.29 12:00\n屏蔽了暂时失效的任务，新增每日和每月吃货豆收支情况\n",
         "version": 1.05,
-        "latestVersion": 1.08,
+        "latestVersion": 1.12,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
             "运行正常\n",
@@ -161,10 +161,10 @@
         "status": 0,
         "updateMsg": "2022.05.20 10:00 完成\n",
         "version": 1.00,
-        "latestVersion": 1.01,
+        "latestVersion": 1.02,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
-            "运行正常",
+            "运行正常\n",
             "此脚本无法运行，请马上删除\n"
         ]
     },
@@ -172,10 +172,10 @@
         "status": 0,
         "updateMsg": "2022.05.24 20:00 完成\n",
         "version": 1.00,
-        "latestVersion": 1.00,
+        "latestVersion": 1.01,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
-            "运行正常",
+            "运行正常\n",
             "此脚本无法运行，请马上删除\n"
         ]
     },
@@ -194,7 +194,7 @@
         "status": 0,
         "updateMsg": "每天签到，开宝箱，提现\n",
         "version": 1.04,
-        "latestVersion": 1.05,
+        "latestVersion": 1.06,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
             "运行正常\n",
@@ -212,11 +212,22 @@
             "此脚本无法运行，请马上删除\n"
         ]
     },
+    "ksjsb_v2": {
+        "status": 0,
+        "updateMsg": "ksjsbapitoken是接口token，请自己找渠道获取\n",
+        "version": 1.03,
+        "latestVersion": 1.05,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
     "txspfl": {
         "status": 0,
-        "updateMsg": "2022.06.04 13:00完成，金币换视频会员等\n互助需要自己配置多账号，循环互助\n",
-        "version": 1.01,
-        "latestVersion": 1.01,
+        "updateMsg": "2022.06.25 01:30 更新接口，加入新任务\n",
+        "version": 1.03,
+        "latestVersion": 1.03,
         "versionMsg": "当前脚本版本过低\n",
         "msg": [
             "运行正常\n",
@@ -226,6 +237,17 @@
     "gjzz": {
         "status": 0,
         "updateMsg": "提现需要实名和人脸\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "kaka": {
+        "status": 0,
+        "updateMsg": "",
         "version": 1.01,
         "latestVersion": 1.01,
         "versionMsg": "当前脚本版本过低\n",
@@ -238,6 +260,6 @@
     ],
     "commonNotify": [
     ],
-    "msg": "运行正常\n京东搜索领取618红包：助力领红包160\n或直接打开： ",
+    "msg": "运行正常",
     "errorMsg": "请马上删除，否则原地爆炸\n"
 }
